@@ -1,2 +1,5 @@
-# php-inicio
-php
+<?php
+
+  "Olá mundo!";
+
+?>
